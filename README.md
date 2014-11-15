@@ -16,3 +16,7 @@ I create some function for better use , including :
   7. showTopic -> show topics that trained by lda .  Input : (model , dictionary , num=8) 
 
 
+--
+
+I think there would be better way to extend lda module , but I'm not good at this .
+If you have better way , just clone and modify it , thanks!
